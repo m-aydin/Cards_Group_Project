@@ -37,3 +37,4 @@ Mert, For list_cleaner()
 
 ## Cards Group Project Core Contributors:
 Mert, For Organising File Structure, And For Laying Framework
+
